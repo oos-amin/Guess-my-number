@@ -19,10 +19,7 @@
 
 
 
-@media screen and (max-width: 460px) {
-    .detail {
-        font-size: 1.2rem;
-    }
+@media screen and (max-width: 476px) {
 
     .title {
         font-size: 2rem;
