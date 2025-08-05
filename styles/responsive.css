@@ -1,0 +1,42 @@
+@media screen and (max-width: 640px) {
+    .detail {
+        font-size: 1.4rem;
+    }
+
+    .title {
+        font-size: 3rem;
+    }
+
+    .number {
+        width: 18rem;
+        height: 7rem;
+    }
+
+    .right {
+        font-size: 1.5rem;
+    }
+}
+
+
+
+@media screen and (max-width: 460px) {
+    .detail {
+        font-size: 1.2rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .main-wrapper {
+        flex-direction: column;
+    }
+
+    .check {
+        margin-bottom: 4rem;
+    }
+
+    .message {
+        margin-bottom: 4rem;
+    }
+}
